@@ -1,6 +1,17 @@
  # Cpp_Note
 Example code of basic C++/STL concepts
 
+Workflow
+===
+1. compile and run your code
+```
+sh compile_run.sh 
+```
+2. store your example code to the folder you want
+```
+. store_file.sh STL/std_array/std_array.cpp   
+```
+
 Shell Notes
 ===
 
