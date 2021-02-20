@@ -1,7 +1,7 @@
  # Cpp_Note
 Example code of basic C++/STL concepts
 
-Workflow
+Run & Store Your Examples
 ===
 1. compile and run your code
 ```
